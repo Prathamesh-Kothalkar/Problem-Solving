@@ -1,7 +1,7 @@
 ////Left Rotation :: Rotate an Array to 'D' postion
 //Going with cpp for dynamic array alocation
 //it is a optimal way ; 
-//it provide efficent Storage Complexity o(1):: dont use any addition array; 
+//it provide efficent Storage Complexity o(1):: dont use any additional array; 
 //it required more complexity 0(2n);
 
 #include<iostream>
